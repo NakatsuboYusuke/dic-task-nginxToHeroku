@@ -1,0 +1,5 @@
+{
+  "name": "nginxapp-heroku",
+  "private": true,
+  "dependencies": {}
+}
